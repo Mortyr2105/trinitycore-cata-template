@@ -433,7 +433,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "SourceBranch",
         "IncludeInCommandLine": false,
-        "DefaultValue": "4.3.4",
+        "DefaultValue": "cata_classic",
         "EnumValues": {}
     },
     {
