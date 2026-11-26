@@ -433,7 +433,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "SourceBranch",
         "IncludeInCommandLine": false,
-        "DefaultValue": "master",
+        "DefaultValue": "4.3.4",
         "EnumValues": {}
     },
     {
